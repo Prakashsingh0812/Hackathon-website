@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import styles from "./auth.module.css"; // Import CSS module
+import styles from "./Auth.module.css"; // Import CSS module
 
 const SignupForm = () => {
   // Handle signup (you may need a function to manage actual signup logic later)
