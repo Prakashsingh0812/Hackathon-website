@@ -2,7 +2,7 @@
 
 import React from "react";
 import { signIn } from "next-auth/react"; // Import signIn from next-auth/react
-import styles from "./auth.module.css"; // Import CSS module
+import styles from "./Auth.module.css"; // Import CSS module
 
 const LoginForm = () => {
   // Function to handle Google login
